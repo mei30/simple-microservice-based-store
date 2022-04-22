@@ -1,0 +1,9 @@
+[submodule "User-Service"]
+	path = User-Service
+	url = https://github.com/mei30/User-Service.git
+[submodule "Product-Service"]
+	path = Product-Service
+	url = https://github.com/mei30/Product-Service.git
+[submodule "Order-Service"]
+	path = Order-Service
+	url = https://github.com/mei30/Order-Service.git
