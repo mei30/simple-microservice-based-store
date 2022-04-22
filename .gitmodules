@@ -7,3 +7,6 @@
 [submodule "Order-Service"]
 	path = Order-Service
 	url = https://github.com/mei30/Order-Service.git
+[submodule "Gateway-Service"]
+	path = Gateway-Service
+	url = https://github.com/mei30/Gateway-Service.git
