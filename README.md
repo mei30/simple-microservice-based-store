@@ -14,4 +14,6 @@ The API gateway works with RESTFUL API while other services work with GRPC.
 
 # Installation
 ```
-git clone --recurse-submodules
+git clone --recurse-submodules https://github.com/mei30/simple-microservice-based-store.git
+
+```
