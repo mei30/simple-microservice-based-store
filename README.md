@@ -11,3 +11,7 @@ our simple e-commerce has fowlling four main parts:
 * Order Service: incoming oreders is handled by this service.
 
 The API gateway works with RESTFUL API while other services work with GRPC.
+
+# Installation
+```
+git clone --recurse-submodules
